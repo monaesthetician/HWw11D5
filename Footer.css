@@ -1,0 +1,63 @@
+
+
+
+.footer-container {
+    padding: 20px;
+    background-color:ivory;
+   
+  }
+  
+  img.sponsor-logo{
+    padding: 15px 65px 30px 30px; 
+    width: 200px; 
+    
+  }
+  
+  div#sponsor-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #fff;
+  }
+  
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns:15em 15em auto;
+    padding: 10px;
+    font-size: 30px;
+    font-style: oblique;
+    
+  }
+  
+  #creators {
+    color: #47597e;
+  
+  }
+  #Lauren :hover {
+    background-color: grey;
+  }
+  
+  #Marquis :hover {
+    background-color: grey;
+  }
+  
+   #Mona :hover {
+    background-color: grey;
+  } 
+  
+  /* .Lauren, .Marquis, .Mona {
+    color: #3b14a7;
+  } */
+  
+  
+  #footer-text {
+    color: #2541b2;
+  }
+  
+  .orangeLogofinal {
+    margin-left: 550px;
+    width: 80px;
+    
+  }
